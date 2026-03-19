@@ -1,0 +1,44 @@
+PROGRAMA FORMATIVO DE LA ESPECIALIDAD FORMATIVA
+GESTIÓN INTEGRAL DE PYMES
+ADGD138PO
+
+DATOS GENERALES DE LA ESPECIALIDAD FORMATIVA
+1. Familia Profesional: ADMINISTRACIÓN Y GESTIÓN
+Área Profesional: ADMINISTRACIÓN Y AUDITORÍA
+2. Denominación: GESTIÓN INTEGRAL DE PYMES
+3. Código: ADGD138PO
+4. Objetivo General: Adquirir conocimientos sobre la gestión de una pyme en los aspectos económicofinancieros, mercantiles, laborales y de planificación empresarial
+6. Duración. Horas totales: 60
+
+Temario: los siguientes cuatro ficheros markdown
+
+"ADGD138PO_L1 LA PYME EN EL ENTORNO GENERAL DE LA EMPRESA.md"
+1.1. La empresa y el entorno empresarial.
+1.2. Tipologías de empresas. La PYME.
+1.3. Puesta en marcha de una empresa.
+1.4. Formas Jurídicas de una empresa.
+1.5. Constitución de una empresa: trámites de obligado cumplimiento.
+1.6. Conceptos y Expresiones clave en Gestión de PYMES.
+1.7. Ciclo de vida de una PYME.
+
+"ADGD138PO_L2. LA GESTIÓN DE LAS ÁREAS FUNCIONALES PRINCIPALES DE UNA PYME.md"
+2.1. Estrategia empresarial.
+2.2. Dirección de Márketing.
+2.3. Dirección Comercial y Técnicas de Venta.
+2.4. Dirección de Producción: plan de producción y compras.
+2.5. Dirección Financiera.
+2.6. Dirección de Recursos Humanos.
+
+"ADGD138PO_L3 GESTIÓN ECONÓMICO-FINANCIERA EN LA PYME.md"
+3.1. Contabilidad: El Plan General Contable.
+3.2. Fuentes de financiación para la PYME.
+3.3. Contabilidad de Costes.
+3.4. Control de Gestión.
+3.5. Gestión de la Calidad.
+3.6. Responsabilidad Social Corporativa (RSC).
+
+"ADGD138PO_L4 4 FISCALIDAD, TRIBUTACIÓN Y LEGISLACIÓN LABORAL EN LA PYME.md"
+4.1. Obligaciones fiscales como autónomo.
+4.2. Obligaciones fiscales como sociedad.
+4.3. Legislación laboral.
+4.4. Principales responsabilidades y deberes de las empresas en materia de medioambiente y seguridad laboral.

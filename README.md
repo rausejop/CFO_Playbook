@@ -1,7 +1,7 @@
 # 🏢 Guía Integral de Trámites Obligatorios Públicos para Startups ("The CFO Playbook")
 
 ![Estado: Finalizado](https://img.shields.io/badge/Estado-Finalizado-success?style=flat-square)
-![Módulos: 28](https://img.shields.io/badge/Módulos-28-blue?style=flat-square)
+![Módulos: 32](https://img.shields.io/badge/Módulos-32-blue?style=flat-square)
 ![Audiencia: Director Financiero / Operaciones](https://img.shields.io/badge/Audiencia-CFO%20%2F%20COO-purple?style=flat-square)
 ![Ubicación: España / Ecosistema Tecnológico](https://img.shields.io/badge/Ubicación-España%20%2F%20Madrid-red?style=flat-square)
 
@@ -13,7 +13,7 @@ El objetivo primordial es aportar los protocolos operativos paso a paso para int
 
 ## 📑 Índice de Organismos y Módulos de Cumplimiento Normativo (Compliance Total)
 
-La guía está estructurada en 4 pilares obligacionales, desarrollando exhaustivamente los trámites críticos desde el alta en registros inicial hasta las presentaciones cíclicas tributarias requeribles por cualquier firma de *Venture Capital* durante una  auditoría (*Due Diligence*):
+La guía está estructurada en 5 pilares obligacionales, desarrollando exhaustivamente los trámites críticos desde el alta en registros inicial hasta las presentaciones cíclicas tributarias requeribles por cualquier firma de *Venture Capital* durante una  auditoría (*Due Diligence*):
 
 ### 🔵 1. Seguridad Social (Trabajo y Gestión Sociolaboral de Equipo)
 Abarca el entorno del Sistema RED, TGSS, y altas/bajas de los hasta 10 integrantes del equipo.
@@ -54,6 +54,13 @@ Reglas de privacidad ("Privacy by Design") cruciales ante bases de datos y desar
 * **PD05.** [Marco Legal Global: RGPD de la Unión Europea, LOPDGDD y Cookies LSSI-CE](./output/PD05_Legislacion_RGPD_LOPDGDD.md)
 * **PD06.** [Checklist de Auditorías, Contratación Continua y Evaluaciones PIA de Impacto](./output/PD06_Resumen_Tramites_y_Calendario.md)
 * **PD07.** [Guías Específicas B2B Tech, Asistente Facilita RGPD y EDPB Europeo](./output/PD07_Referencias_y_Guias_AEPD.md)
+
+### 🟠 5. Gestión Integral de PYMES (ADGD138PO)
+Módulo transversal sobre la gestión estratégica, operativa, financiera y legal de la pequeña y mediana empresa.
+* **L1.** [La PYME en el Entorno General de la Empresa](./output/ADGD138PO_L1%20LA%20PYME%20EN%20EL%20ENTORNO%20GENERAL%20DE%20LA%20EMPRESA.md)
+* **L2.** [Gestión de las Áreas Funcionales de la PYME](./output/ADGD138PO_L2.%20LA%20GESTI%C3%93N%20DE%20LAS%20%C3%81REAS%20FUNCIONALES%20PRINCIPALES%20DE%20UNA%20PYME.md)
+* **L3.** [Gestión Económico-Financiera (Contabilidad y Financiación)](./output/ADGD138PO_L3%20GESTI%C3%93N%20ECON%C3%93MICO-FINANCIERA%20EN%20LA%20PYME.md)
+* **L4.** [Fiscalidad, Tributación y Legislación Laboral](./output/ADGD138PO_L4%204%20FISCALIDAD,%20TRIBUTACI%C3%93N%20Y%20LEGISLACI%C3%93N%20LABORAL%20EN%20LA%20PYME.md)
 
 ---
 *Manual maestro confeccionado para asegurar el blindaje sancionador de entidades de nueva creación bajo estándares europeos en las fases de Incubación y Capital Semilla, protegiendo las responsabilidades del equipo operativo, fundacional y directivo en España.*
